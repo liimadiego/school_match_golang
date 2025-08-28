@@ -18,7 +18,6 @@ Microservice in Go that allows users to register schools and submit student revi
 git clone https://github.com/liimadiego/school_match_golang
 cd school_match_golang
 
-docker-compose build app
 docker-compose up -d
 
 # Run the following commands inside the container or adjust the .env file to point to the correct host
